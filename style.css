@@ -55,11 +55,7 @@ h1{
     font-weight:bolder;
     font-size: larger;
 }
-input [type=text]{
-    font-size: 300px;
-    padding-left: 30px;
-    padding: 166px;
-}
+
 ::placeholder{
     font-size: 18px;
     padding-left: 40px;     
